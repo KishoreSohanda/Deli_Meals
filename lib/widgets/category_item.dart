@@ -36,7 +36,7 @@ class Categoryitem extends StatelessWidget {
         ),
         child: Text(
           title,
-          style: Theme.of(context).textTheme.titleSmall,
+          style: Theme.of(context).textTheme.titleLarge,
         ),
       ),
     );
